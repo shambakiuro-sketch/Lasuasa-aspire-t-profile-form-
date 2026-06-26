@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/lasuasa-aspirant-registration.html" },
+    { "source": "/admin", "destination": "/lasuasa-aspirants-admin.html" }
+  ]
+}
